@@ -1,1 +1,1 @@
-I'm going to create website with the knowledge i've learnt so far at Odin Project
+I'm going to create website with the knowledge i've learnt so far at Odin Project. No prior knowledge in coding. Started my coding journey on 25th April 2023.
